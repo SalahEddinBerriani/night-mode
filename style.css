@@ -1,0 +1,22 @@
+.change {
+  font-size: large;
+  bottom: 50px;
+  right: 50px;
+  position: fixed;
+  background-color: yellow;
+  outline: none;
+  cursor: pointer;
+}
+.wrapper {
+  padding: 50px;
+}
+
+.night {
+  background-color: black !important;
+  color: white !important;
+}
+
+.light {
+  background-color: #eee;
+  color: grey;
+}
